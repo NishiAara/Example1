@@ -1,7 +1,6 @@
 streamlit
 pickle
 pathlib
-Path
 plotly.express
 streamlit_authenticator
-Authenticate
+
