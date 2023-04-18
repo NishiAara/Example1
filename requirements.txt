@@ -1,6 +1,5 @@
 streamlit
 pickle
-pathlib
 plotly.express
 streamlit_authenticator
 
